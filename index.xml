@@ -5,10 +5,6 @@
     <link>https://ocozalp.com/</link>
     <description>Recent content on Orhan Ozalp&#39;s Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://ocozalp.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://ocozalp.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
